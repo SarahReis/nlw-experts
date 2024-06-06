@@ -13,4 +13,4 @@ Projeto Front-End de quizz sobre tecnologia
 ![Quizz](Quizz.png)
 
  ## Deploy da aplicação 🚀
-sarahreis.github.io/nlw-experts/
+https://sarahreis.github.io/nlw-experts/
