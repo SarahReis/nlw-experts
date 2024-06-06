@@ -1,4 +1,5 @@
-# nlw-experts
+# Quizz ☑️
+Projeto Front-End de quizz sobre tecnologia
 
 ## Tecnologias utilizadas
 
@@ -6,3 +7,10 @@
 - CSS
 - JavaScript
 - Github
+
+## Tela da aplicação
+
+![Quizz](Quizz.png)
+
+ ## Deploy da aplicação 🚀
+sarahreis.github.io/nlw-experts/
